@@ -45,11 +45,6 @@ Show difference in file version
 git diff
 ```
 
-Show all branches
-```sh
-git branch
-```
-
 Branch switching
 ```sh
 git checkout <branch_name>
@@ -68,4 +63,9 @@ git branch -d <Branch_name> или <имя_ветки>
 Show changes in branches
 ```sh
 git graph
+```
+
+Отображение всех веток
+```sh
+git branch
 ```
