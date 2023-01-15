@@ -35,36 +35,32 @@ git checkout (тег совершенного изменения)
 git checkout master
 ```
 
-Current
+Текущее состояние файла
 ```sh
 git status
 ```
 
-Show difference in file version
+Показать различия в изменениях файла
 ```sh
 git diff
 ```
 
-<<<<<<< HEAD
-Branch switching
-=======
-Show all branches
+Отобразить все ветки
 ```sh
 git branch
 ```
 
 Переключение между ветками
->>>>>>> russian_branch
 ```sh
 git checkout <имя_ветки>
 ```
 
-Create new branch
+Создать новую ветку
 ```sh
 git branch <Branch_name>
 ```
 
-Delete branch
+Удалить ветку
 ```sh
 git branch -d <branch_Name>
 ```
