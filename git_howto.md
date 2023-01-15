@@ -57,12 +57,12 @@ git checkout <имя_ветки>
 
 Create new branch
 ```sh
-git branch <Branch_name> или <имя_ветки>
+git branch <Branch_name>
 ```
 
 Delete branch
 ```sh
-git branch -d <Branch_name> или <имя_ветки>
+git branch -d <branch_Name>
 ```
 
 Show changes in branches
