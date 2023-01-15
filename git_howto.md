@@ -50,9 +50,9 @@ Show all branches
 git branch
 ```
 
-Branch switching
+Переключение между ветками
 ```sh
-git checkout <branch_name>
+git checkout <имя_ветки>
 ```
 
 Create new branch
