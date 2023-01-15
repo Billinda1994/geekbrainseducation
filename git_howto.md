@@ -12,7 +12,7 @@ git add
 
 Добавление поэтапных изменений файла
 ```sh
-git commit -m "Message"
+git commit -m "Message text"
 ```
 
 Просмотр историю изменений файла
@@ -44,3 +44,23 @@ git status
 ```sh
 git diff
 ```
+
+Отображение всех веток
+```sh
+git branch
+```
+
+Перемещение по веткам
+```sh
+git checkout <branch_name>
+```
+
+Создание новой ветки
+```sh
+git branch <имя_ветки>
+```
+
+Удаление ветки
+git branch -d <имя_ветки>
+
+git graph
