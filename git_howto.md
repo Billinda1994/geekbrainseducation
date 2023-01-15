@@ -45,19 +45,28 @@ Show difference in file version
 git diff
 ```
 
+<<<<<<< HEAD
 Branch switching
+=======
+Show all branches
 ```sh
-git checkout <branch_name>
+git branch
+```
+
+Переключение между ветками
+>>>>>>> russian_branch
+```sh
+git checkout <имя_ветки>
 ```
 
 Create new branch
 ```sh
-git branch <Branch_name> или <имя_ветки>
+git branch <Branch_name>
 ```
 
 Delete branch
 ```sh
-git branch -d <Branch_name> или <имя_ветки>
+git branch -d <branch_Name>
 ```
 
 Show changes in branches
