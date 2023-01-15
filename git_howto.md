@@ -57,10 +57,15 @@ git checkout <branch_name>
 
 Создание новой ветки
 ```sh
-git branch <имя_ветки>
+git branch <Branch_name> или <имя_ветки>
 ```
 
 Удаление ветки
-git branch -d <имя_ветки>
+```sh
+git branch -d <Branch_name> или <имя_ветки>
+```
 
+Отображение сделанных изменений в ветвях
+```sh
 git graph
+```
