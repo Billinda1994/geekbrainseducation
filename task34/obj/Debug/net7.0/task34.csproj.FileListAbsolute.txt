@@ -1,0 +1,15 @@
+C:\Users\billi\Desktop\lesson02\task30\task31\task32\task33\task34\bin\Debug\net7.0\task34.exe
+C:\Users\billi\Desktop\lesson02\task30\task31\task32\task33\task34\bin\Debug\net7.0\task34.deps.json
+C:\Users\billi\Desktop\lesson02\task30\task31\task32\task33\task34\bin\Debug\net7.0\task34.runtimeconfig.json
+C:\Users\billi\Desktop\lesson02\task30\task31\task32\task33\task34\bin\Debug\net7.0\task34.dll
+C:\Users\billi\Desktop\lesson02\task30\task31\task32\task33\task34\bin\Debug\net7.0\task34.pdb
+C:\Users\billi\Desktop\lesson02\task30\task31\task32\task33\task34\obj\Debug\net7.0\task34.csproj.AssemblyReference.cache
+C:\Users\billi\Desktop\lesson02\task30\task31\task32\task33\task34\obj\Debug\net7.0\task34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\billi\Desktop\lesson02\task30\task31\task32\task33\task34\obj\Debug\net7.0\task34.AssemblyInfoInputs.cache
+C:\Users\billi\Desktop\lesson02\task30\task31\task32\task33\task34\obj\Debug\net7.0\task34.AssemblyInfo.cs
+C:\Users\billi\Desktop\lesson02\task30\task31\task32\task33\task34\obj\Debug\net7.0\task34.csproj.CoreCompileInputs.cache
+C:\Users\billi\Desktop\lesson02\task30\task31\task32\task33\task34\obj\Debug\net7.0\task34.dll
+C:\Users\billi\Desktop\lesson02\task30\task31\task32\task33\task34\obj\Debug\net7.0\refint\task34.dll
+C:\Users\billi\Desktop\lesson02\task30\task31\task32\task33\task34\obj\Debug\net7.0\task34.pdb
+C:\Users\billi\Desktop\lesson02\task30\task31\task32\task33\task34\obj\Debug\net7.0\task34.genruntimeconfig.cache
+C:\Users\billi\Desktop\lesson02\task30\task31\task32\task33\task34\obj\Debug\net7.0\ref\task34.dll
